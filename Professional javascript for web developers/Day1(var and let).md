@@ -3,6 +3,6 @@
 ## I- Definition of var, and let.
 
 ### a - var
-- '''
-- var message = "hi";
-- '''
+ ```
+ var message = "hi";
+ ```
