@@ -25,3 +25,11 @@
   }
   foo(); // undefined
   ```
+ There is no error, because ECMAscript treat it as :
+ ```
+ function foo() {
+  var age;
+  console.log(age);
+  age = 26;
+ }
+ ```
