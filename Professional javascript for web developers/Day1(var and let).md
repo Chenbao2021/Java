@@ -17,7 +17,7 @@
     console.log(message); // "hi"
     ```
     But this is not recommended, because hard to maintain.
-- Javascript has a mechanism called "Hoisting", this mecanism will ** move all variable declarations using "var" to the top of the block **.
+- Javascript has a mechanism called "Hoisting", this mecanism will **move all variable declarations using "var" to the top of the block**.
   ```
   function foo() {
     console.log(age);
@@ -25,11 +25,11 @@
   }
   foo(); // undefined
   ```
- There is no error, because ECMAscript treat it as :
- ```
- function foo() {
-  var age;
-  console.log(age);
-  age = 26;
- }
- ```
+  There is no error, because ECMAscript treat it as :
+  ```
+  function foo() {
+   var age;
+   console.log(age);
+   age = 26;
+  }
+  ```
