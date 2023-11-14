@@ -16,3 +16,4 @@
     test()
     console.log(message); // "hi"
     ```
+    But this is not recommended, because hard to maintain.
