@@ -9,7 +9,7 @@
 - When we define a var inside a function block, then the var is a local variable.
 - The var is destroyed after the function execution is completed.
 - If we define a variable inside a function block without "var", then the variable will be a global variable
-- - ```
+    ```
     function test() {
       message : "hi";
     }
