@@ -6,7 +6,7 @@ J'y ai également inclus les différents travaux pratiques que nous avons réali
 
 Il peut être utile pour la révision et la préparation aux entretiens.
 
-| Les notions| ||
-|:-: | :-: | :-:|
-| Mot-clé | Class/Objet | Class finale |
-| Héritage | Surcharge&Substitution | Polymorphisme |
+| Le Menu| ||
+|:-| :- | :-|
+| 1-Mot-clé | 2-Class/Objet | 3-Class finale |
+| 4-Héritage | 5-Surcharge&Substitution | 6-Polymorphisme |
