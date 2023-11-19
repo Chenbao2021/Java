@@ -8,5 +8,7 @@ Il peut être utile pour la révision et la préparation aux entretiens.
 
 | Le Menu| ||
 |:-| :- | :-|
-| [Mot-clé]([https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/1-%20Mot%20cl%C3%A9s](https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/Mot%20cl%C3%A9s.md)https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/Mot%20cl%C3%A9s.md) | Class/Objet | Class finale |
+| [Mot-clé] | Class/Objet | Class finale |
 | Héritage | Surcharge&Substitution | Polymorphisme |
+
+[Mot-clé]:<https://github.com/Chenbao2021/Books/blob/a78c9e6f79f03e0fc668699b68fce14640f89587/Introduction%20to%20Java/Mot%20cl%C3%A9s.md>
