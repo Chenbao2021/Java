@@ -13,6 +13,7 @@ Il existe plusieurs types de classe interne:
     - Est définie à l'intérieur d'une méthode ou d'un bloc de code. 
     - A accès aux variables locales de la méthode qui l'entoure.
     - Souvent utilisée pour encapsuler du code qui n'a de sens que dans le contexte spécifique ou il est déclaré.
+
 Quand on l'utilise?
 - Quand une classe B n'est utilisé que pour une classe A, cela peut garder les codes bien plus propre.
 ## II - Questions d'entretien
