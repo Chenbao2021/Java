@@ -1,4 +1,4 @@
-# Classe finale
+# Classe interne
 ## I - Définition
 En Java, une classe interne(ou classe imbriquée), est une classe qui est définie à l'intérieur d'une autre classe.
 Une classe interne peut accéder aux membres privés de la classe extérieurs.
