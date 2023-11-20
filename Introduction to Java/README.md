@@ -18,9 +18,9 @@ Il peut être utile pour la révision et la préparation aux entretiens.
 | [MVC] | [] | [] |
 | [JVM] | [Garbage] | [stream] |
 
-[Mot-clé]:<https://github.com/Chenbao2021/Books/blob/b0120f4ff9b695df8a048f179b98698b7c141298/Introduction%20to%20Java/Mot%20cl%C3%A9s.md>
-[Class/Objet]: <https://github.com/Chenbao2021/Books/blob/b0120f4ff9b695df8a048f179b98698b7c141298/Introduction%20to%20Java/Classes%20et%20objets.md>
-[Class interne]: <https://github.com/Chenbao2021/Books/blob/b0120f4ff9b695df8a048f179b98698b7c141298/Introduction%20to%20Java/Classe%20interne.md>
+[Mot-clé]:<https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/Mot%20cl%C3%A9s.md>
+[Class/Objet]: <https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/Classes%20et%20objets.md>
+[Class interne]: <https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/Classe%20interne.md>
 [Héritage]: <>
 [Surcharge&Substitution]: <>
 [Polymorphisme]: <>
