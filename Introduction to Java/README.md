@@ -16,7 +16,6 @@ Il peut être utile pour la révision et la préparation aux entretiens.
 | [Design pattern] | [Singleton] | [Observateur] |
 | [Décorateur] | [Composite] | [Stratégie] |
 | [MVC] | [] | [] |
-| [JVM] | [Garbage] | [stream] |
 
 [Mot-clé]:<https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/Mot%20cl%C3%A9s.md>
 [Class/Objet]: <https://github.com/Chenbao2021/Books/blob/main/Introduction%20to%20Java/Classes%20et%20objets.md>
@@ -40,7 +39,4 @@ Il peut être utile pour la révision et la préparation aux entretiens.
 [Composite]: <>  
 [Stratégie]: <> 
 [MVC]: <>  
-[JVM]: <>  
-[Garbage]: <> 
-[stream]: <> 
 
